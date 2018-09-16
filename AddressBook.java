@@ -14,6 +14,7 @@ public class AddressBook {
 		AddressBook book = new AddressBook();
 		book.addBuddy(new BuddyInfo("Trevor", false));
 		book.removeBuddy("Trevor");
+		System.out.println("woww OOPS I didn't mean to add THIS line of code UH OH how will I ever get rid of it oh nooooooooooooooooooooooooooooo");
 	}
 	
 	/**
